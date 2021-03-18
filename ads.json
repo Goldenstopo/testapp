@@ -3,7 +3,7 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "unity",
+			"NetworkAds": "facebook",
 
 			"BannerAdmob": "ca-app-pub-2337067692403283/6881715309",
 			"InterstitialAdmob1": "ca-app-pub-2337067692403283/3907411066",
@@ -28,8 +28,8 @@
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
 			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
 			
-			"watchNow": false,
-			"Rating": false
+			"watchNow": true,
+			"Rating": true
 			
 		}
 
