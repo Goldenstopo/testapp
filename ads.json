@@ -24,7 +24,7 @@
 			"BannerUnity":"diamondspamulabanner",
 			"InterstitialUnity":"diamondspamulainter",
 						
-			"Cpa": false,
+			"Cpa": true,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
 			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
 			
