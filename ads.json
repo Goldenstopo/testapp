@@ -3,7 +3,7 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "admob",
+			"NetworkAds": "facebook",
 
 			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
 			"InterstitialAdmob1": "ca-app-pub-3940256099942544/1033173712",
@@ -24,7 +24,7 @@
 			"BannerUnity":"diamondspamulabanner",
 			"InterstitialUnity":"diamondspamulainter",
 						
-			"Cpa": false,
+			"Cpa": true,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
 			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
 			
